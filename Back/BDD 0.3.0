@@ -1,0 +1,153 @@
+{
+    "dueños":{
+       
+            
+                    "dueño1":{
+                        "datos_dueño":[
+                            {
+                            "nombre":"Peranito",
+                            "apellido":"Rodriguez",                            
+                            "contacto":"perano@gmail.com"
+                            }   
+                        ],
+                        "local":
+                            [
+                                {
+                                "nombre":"Corporacion Debluss Bar",
+                                "descripcion":"Buena música, buen servicio, ambiente agradable, y la mejor cerveza Artesanal.",
+                                "coordenadas":{"lat":6.378371, "lng":-75.444312}
+                                }
+                            
+                            ]
+                    },
+                    "dueño2":{
+                        "datos_dueño":
+                        [
+                            {
+                                "nombre":"Fulano",
+                                "apellido":"Mengano",                                
+                                "contacto":"(4)2891927" 
+                            }
+                        ],
+                        "local":
+                        [
+                            {
+                                "nombre":"Licorera Bar 5B",
+                                "descripcion":"musica crossover,Excelente sitio para compartir y pasar ratos muy agradables",
+                                "coordenadas":{"lat":6.376963, "lng":-75.444146}
+                            }
+                        ]
+                    },
+                    "dueño3":{
+                        "datos_dueño":
+                        [
+                            {
+                                "nombre":"Vergardo ",
+                                "apellido":"Velez",                                
+                                "contacto":"Vergardo@gmail.com"
+                            }
+                        ],
+                        "local":
+                        [
+                            {
+                                "nombre":"icono club",
+                                "descripcion":"Lugar Generador de cultura electronica,allí regularmente hacen eventos con los mejores DJ´s de la ciudad",
+                                "coordenadas":{"lat":6.191007, "lng":-75.583451}
+                            }
+                        ]
+                    },
+                    "dueño4":{
+                        "datos_dueño":
+                        [
+                            {
+                                "mombre":"Diomedez",
+                                "apellido":"Diaz",
+                                "contacto":"diomedez@gmail.com"
+                            }
+                        ],
+                        "local":
+                        [
+                            {
+                                "nombre":"el cacique",
+                                "descripcion":"Discoteca Para los amantes de la musica vallenata y el perico",
+                                "coordenadas":{"lat":6.249506,"lng":-75.588692}
+                            }
+                        ]
+                    },
+                    "dueño5":{
+                        "datos_dueño":
+                        [
+                            {
+                                "mombre":"Farenheit",
+                                "apellido":"Lopez",
+                                "contacto":"fahrenheit@gmail.com"
+                            }
+                        ],
+                        "local":
+                        [
+                            {
+                                "nombre":"Discoteca Fahrenheit",
+                                "descripcion":"Buena Musica Crossover y Musica Electronica",
+                                "coordenadas":{"lat":6.186157, "lng":-75.587816}
+                            }
+                        ]
+                    },
+                    "dueño6":{
+                        "datos_dueño":
+                        [
+                            {
+                                "mombre":"Jesus",
+                                "apellido":"Lopez",
+                                "contacto":"djm@gmail.com"
+                            }
+                        ],
+                        "local":
+                        [
+                            {
+                                "nombre":"Dulce Jesus Mio",
+                                "descripcion":"Sitio Tematico para los amantes de la musica folclorica",
+                                "coordenadas":{"lat":6.223246, "lng":-75.565317}
+                            }
+                        ]
+                    },
+                    "dueño7":{
+                        "datos_dueño":
+                        [
+                            {
+                                "mombre":"Alba",
+                                "apellido":"rado",
+                                "contacto":"tropicalbarrioantioquia@gmail.com"
+                            }
+                        ],
+                        "local":
+                        [
+                            {
+                                "nombre":"Tropical cocktails Barrio Antioquia",
+                                "descripcion":"Sitio reconocido por los amantes de la electronica gracias a la cultura que genera",
+                                "coordenadas":{"lat":6.226591, "lng":-75.585161}
+                            }
+                        ]
+                    }
+                    
+                
+            
+        
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    },
+            "Usuarios":{
+
+            }
+}
