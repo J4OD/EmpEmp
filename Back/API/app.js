@@ -10,6 +10,7 @@ var usersRouter = require('./routes/users');
 //Traer RUTAS
 var auth_route = require('./routes/auth_route');
 var sector_route = require('./routes/sector_route');
+var dueño_route = require('./routes/dueño_route');
 
 var app = express();
 
@@ -28,6 +29,7 @@ app.use('/users', usersRouter);
 // Use ruta
 app.use(auth_route);
 app.use(sector_route);
+app.use(dueño_route);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

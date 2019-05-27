@@ -5,11 +5,11 @@ var jwt = require('jsonwebtoken'),
     auth_controller = () =>{}
 
 auth_controller.authenticate = (req,res,next)=>{
-    let rol = req.body.rol
+    let id = req.body.uid
     //holi
     let payload ={
         pass : admin_payload.pass,
-        rol : rol
+        uid : id
     }
     jwt.sign(payload,secret.secret,(err,token) =>{
         res.json({token})
