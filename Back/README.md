@@ -13,6 +13,7 @@ POST | /auth | Obtiene token de autenticación, esta requiere BODY {uid: <UID>}
 
 ### /gen_cult
 Estas son las rutas de implementación de la ruta gen_cult para los autenticadores de cultura.
+
 TIPO | RUTA | Descripción
 ---- | ---- | -----------
 GET | /gen_cult | Obtiene los datos de todos los generadores de cultura, requiere HEADER "Authentication" : "bearer <TOKEN>"
@@ -27,6 +28,7 @@ DELETE | /gen_cult/premio | crea un nuevo  premio del generador de cultura, requ
 ### /puntos
 
 Estas son las rutas de implementación de la ruta puntos para los generadores de cultura.
+
 TIPO | RUTA | Descripción
 ---- | ---- | -----------
 GET | /puntos | Obtiene los datos de los puntos del generador de cultura pasado por TOKEN, requiere HEADER "Authentication" : "bearer <TOKEN>"
