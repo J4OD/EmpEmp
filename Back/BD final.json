@@ -52,12 +52,11 @@
                     "descripcion":"Plato de Comida",
                     "puntos":10000
                 }
-               
             }
         },
         "2RHdep7a3pcDQL5TiKPPBdft1Ds2":{
             "datos":{
-                "nombre":"Vernardo ",
+                "nombre":"Bernardo",
                 "apellido":"Velez",                                
                 "contacto":"Vernardo@gmail.com"
             },
@@ -191,7 +190,7 @@
             }
           
         },
-        "dueño8":{
+        "AI5yrIoTLscSPvFYXyYczcVuMV02":{
             "datos":{
                 "nombre":"Luxury",
                 "apellido":"club",
@@ -218,7 +217,7 @@
                 }
             }
         },
-        "dueño9":{
+        "CvDBDF1V1VfYDC2P03vqIANRIq03":{
             "datos":{
                 "nombre":"Disco",
                 "apellido":"Ibiza",
@@ -245,7 +244,7 @@
                 }
             }
         },
-        "dueño10":{
+        "u3s0EqaA3LXouyuzafQ9iXk9eNs1":{
             "datos":{
                 "nombre":"Fase",
                 "apellido":"Dos",
@@ -272,7 +271,7 @@
                 }
             }
         },
-        "dueño11":{
+        "YvgrKqMsIlXCB1blboTyUh2ICfE3":{
             "datos":{
                 "nombre":"Kukaramakara",
                 "apellido":"Velez",
@@ -299,7 +298,7 @@
                 }
             }
         },
-        "dueño12":{
+        "d2i1gxiSkbOPeWYXfvLmZNsgz9W2":{
             "datos":{
                 "nombre":"Tienda",
                 "apellido":"De la 70",
@@ -326,7 +325,7 @@
                 }
             }
         },
-        "dueño13":{
+        "guZhhHA4bDdOxWlsZWQ99zJbTbj2":{
             "datos":{
                 "nombre":"Bendito",
                 "apellido":"Seas",
@@ -353,7 +352,7 @@
             }
             }
         },
-        "dueño14":{
+        "3s8vfuvN0KfYAwHOGyaQqYARiW02":{
             "datos":{
                 "nombre":"Oye",
                 "apellido":"Bonita",
@@ -380,7 +379,7 @@
                 }
             }
         },
-        "dueño15":{
+        "sI7TpyQbXyfqyfqkCv5NOeSxUTp2":{
             "datos":{
                 "nombre":"Viva",
                 "apellido":"Discoteca",
@@ -407,35 +406,7 @@
                 }
             }
         },
-        "dueño16":{
-            "datos":{
-                "nombre":"Baby",
-                "apellido":"Lon",
-                "contacto":"babylon"
-            },
-            "local":{
-                "nombre":"Babylon",
-                "descripcion":"La música es variada, el ambiente en muy chévere,la temática del lugar es bonita",
-                "coords":{"lat":6.209522, "lng":-75.568891},
-                "tipo":"Crossover"
-            },
-            "premios":{
-                "1":{
-                    "descripcion":"Cerveza",
-                    "puntos":1500
-                },
-                "2":{
-                    "descripcion":"Granizado",
-                    "puntos":5000
-                },
-                "3":{
-                    "descripcion":"Media de Ron o Aguardiente",
-                    "puntos":20000
-                }
-            }
-            
-        },
-        "dueño17":{
+        "rECczTZLgQc5b5Rw3cIYet2Vw8w1":{
             "datos":{
                 "nombre":"Pico",
                 "apellido":"Botella",
@@ -462,11 +433,11 @@
                 }
             }
         },
-        "dueño18":{
+        "G4nbe9jbusZY3hktAX7jjxV75in1":{
             "datos":{
                 "nombre":"zenith",
                 "apellido":"fest",
-                "contacto":"zenith"
+                "contacto":"z@z.com"
             },
             "local":{
                 "nombre":"Zenith Room Fest",
@@ -489,11 +460,11 @@
                 }
             }
         },
-        "dueño19":{
+        "qxFISQlWCQNrz9oMSeT86and2Zs1":{
             "datos":{
                 "nombre":"Ritmos y Tangos",
                 "apellido":"Ritmos",
-                "contacto":"RYT"
+                "contacto":"RYT@RYT.com"
             },
             "local":{
                 "nombre":"Ritmos y Tangos",
@@ -516,11 +487,11 @@
                 }
             }
         },
-        "dueño20":{
+        "AA0TRpN1ZpaSEMrJ9QxRc1xn3tU2":{
             "datos":{
                 "nombre":"La clinica",
                 "apellido":"Night club",
-                "contacto":"LC"
+                "contacto":"LC@LC.com"
             },
             "local":{
                 "nombre":"La Clínica Night Club",
@@ -543,11 +514,11 @@
                 }
             }
         },
-        "dueño21":{
+        "WewxMhJzAcO1Q5vR2OQLsNA0wCM2":{
             "datos":{
                 "nombre":"Lico",
                 "apellido":"Deluxe",
-                "contacto":"LD"
+                "contacto":"LD@LD.com"
             },
             "local":{
                 "nombre":"Lico Deluxe",
@@ -570,11 +541,11 @@
                 }
             }
         },
-        "dueño22":{
+        "Gjhz9pBQPueAD70usciAZ4MRSUp2":{
             "datos":{
                 "nombre":"Tropical Cocktails Lleras",
                 "apellido":"cocktails",
-                "contacto":"TCL"
+                "contacto":"TCL@TCL.com"
             },
             "local":{
                 "nombre":"Tropical Cocktails Lleras",
@@ -597,11 +568,11 @@
                 }
             }
         },
-        "dueño23":{
+        "4FQE28o47uZwJu3oQTYFJDMvY4b2s":{
             "datos":{
-                "nombre":"Tsuinami",
+                "nombre":"Tsunami",
                 "apellido":"Discoteca",
-                "contacto":"TD"
+                "contacto":"TD@tsunami.com"
             },
             "local":{
                 "nombre":"TSUNAMI",
@@ -624,11 +595,11 @@
                 }
             }
         },
-        "dueño24":{
+        "HvxwIDCMTtdkeYG0ZsAEMgQQ4Ro1":{
             "datos":{
                 "nombre":"VIP",
                 "apellido":"Discoteca",
-                "contacto":"VIP"
+                "contacto":"VIP@V.com"
             },
             "local":{
                 "nombre":"VIP",
@@ -651,65 +622,11 @@
                 }
             }
         },
-        "dueño25":{
-            "datos":{
-                "nombre":"Cañabrava",
-                "apellido":"c",
-                "contacto":"CB"
-            },
-            "local":{
-                "nombre":"Cañabrava la 70",
-                "descripcion":"Fonda Muy agradable para disfrutar con familia y amigos.",
-                "coords":{"lat":6.251360, "lng":-75.588390},
-                "tipo":"Crossover"
-            },
-            "premios":{
-                "1":{
-                    "descripcion":"Cerveza",
-                    "puntos":1500
-                },
-                "2":{
-                    "descripcion":"Media de Ron o Aguardiente",
-                    "puntos":13000
-                },
-                "3":{
-                    "descripcion":"3 Cervezas al 50% de descuento",
-                    "puntos":3000
-                }
-            }
-        },
-        "dueño26":{
-            "datos":{
-                "nombre":"avatar",
-                "apellido":"Discoteca",
-                "contacto":"AD"
-            },
-            "local":{
-                "nombre":"Avatar",
-                "descripcion":"Muy Buena discoteca , Agradable , Amplia y Buena musica.",
-                "coords":{"lat":6.321349, "lng":-75.558887},
-                "tipo":"Crossover"
-            },
-            "premios":{
-                "1":{
-                    "descripcion":"Granizado",
-                    "puntos":4000
-                },
-                "2":{
-                    "descripcion":"Media de Ron o Aguardiente",
-                    "puntos":15000
-                },
-                "3":{
-                    "descripcion":"Garrafa de Ron o Aguardiente",
-                    "puntos":25000
-                }
-            }
-        },
-        "dueño27":{
+        "39DUhMaUT5ZDQ75tgbNsp3IOhi93":{
             "datos":{
                 "nombre":"Ottawa",
                 "apellido":"Discoteca",
-                "contacto":"OD"
+                "contacto":"Ott@wa.com"
             },
             "local":{
                 "nombre":"Ottawa Discoteca",
@@ -733,13 +650,18 @@
             }
         }
     },
-    "Usuarios":{
-        "User1":{
+    "usuarios":{
+        "UXKK6aGfKaPAYGWn0dwaGTkAwQs2":{
             "datos":{
                 "nombre":"Juanes",
-                "correo":"Juanes123@gmail.com",
+                "correo":"juanes123@gmail.com",
                 "puntos":1200
             }
         }
+    },
+    "puntos":{
+        "visita": 100,
+        "consumo": 500,
+        "evento":1000   
     }
 }
