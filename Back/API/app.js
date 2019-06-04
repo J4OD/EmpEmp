@@ -10,7 +10,7 @@ var usersRouter = require('./routes/users');
 //Traer RUTAS
 var auth_route = require('./routes/auth_route');
 var puntos_route = require('./routes/puntos_route');
-var dueño_route = require('./routes/dueño_route');
+var dueno_route = require('./routes/dueno_route');
 var usuario_route = require('./routes/usuario_route');
 
 var app = express();
@@ -30,7 +30,7 @@ app.use('/users', usersRouter);
 // Use ruta
 app.use(auth_route);
 app.use(puntos_route);
-app.use(dueño_route);
+app.use(dueno_route);
 app.use(usuario_route);
 
 // catch 404 and forward to error handler

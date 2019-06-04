@@ -4,10 +4,10 @@ var jwt = require('jsonwebtoken'),
     firebase = require('../model/server'),
     secret = require('../model/secret'),
     admin_payload = require('../model/admin_payload'),
-    dueño_model = require('../model/dueño'),
-    dueño_controller = () => {}
+    dueno_model = require('../model/dueno'),
+    dueno_controller = () => {}
     //GETTERS
-    dueño_controller.get_all = (req,res,next) =>{
+    dueno_controller.get_all = (req,res,next) =>{
         jwt.verify(req.token,secret.secret,(err,payload)=>{
             if(err){
                 res.json(403,{
@@ -18,7 +18,7 @@ var jwt = require('jsonwebtoken'),
                 let auth = firebase.auth()
                 auth.getUser(payload.uid)
                 .then(function(userRecord){
-                    dueño_model.get_all((cb)=>{
+                    dueno_model.get_all((cb)=>{
                         if(cb.val!=null){
                             res.json(cb.val())
                         }else{
@@ -41,7 +41,7 @@ var jwt = require('jsonwebtoken'),
         })
     }
     //Esta trae todos los locales
-    dueño_controller.get_loc = (req,res,next) =>{
+    dueno_controller.get_loc = (req,res,next) =>{
         jwt.verify(req.token,secret.secret,(err,payload)=>{
             if(err){
                 res.json(403,{
@@ -51,7 +51,7 @@ var jwt = require('jsonwebtoken'),
             }else if(payload.pass == admin_payload.pass){
                 var data =[]
                 let aux
-                dueño_model.get_all((cb)=>{
+                dueno_model.get_all((cb)=>{
                     if(cb.val!=null){
                         cb.forEach(function(child_snap){
                             //child_snap me trae la información como arreglo
@@ -73,7 +73,7 @@ var jwt = require('jsonwebtoken'),
         })
     }
     //Get my data
-    dueño_controller.get_my = (req,res,next) =>{
+    dueno_controller.get_my = (req,res,next) =>{
         jwt.verify(req.token,secret.secret,(err,payload)=>{
             if(err){
                 res.json(403,{
@@ -85,7 +85,7 @@ var jwt = require('jsonwebtoken'),
                 auth.getUser(payload.uid)
                 .then(function(userRecord){
                     let uid = payload.uid
-                    dueño_model.get_my(uid,(cb)=>{
+                    dueno_model.get_my(uid,(cb)=>{
                         if(cb.val!=null){
                             res.json(cb.val())
                         }else{
@@ -107,7 +107,7 @@ var jwt = require('jsonwebtoken'),
             }
         })
     }
-    dueño_controller.get_my_premio = (req,res,next)=>{
+    dueno_controller.get_my_premio = (req,res,next)=>{
         jwt.verify(req.token,secret.secret,(err,payload)=>{
             if(err){
                 res.json(403,{
@@ -119,7 +119,7 @@ var jwt = require('jsonwebtoken'),
                 auth.getUser(payload.uid)
                 .then(function(userRecord){
                     let uid = payload.uid
-                    dueño_model.get_my_premio(uid,(cb)=>{
+                    dueno_model.get_my_premio(uid,(cb)=>{
                         if(cb.val!=null){
                             res.json(cb.val())
                         }else{
@@ -141,7 +141,7 @@ var jwt = require('jsonwebtoken'),
             }
         })
     }
-    dueño_controller.get_my_data = (req,res,next)=>{
+    dueno_controller.get_my_data = (req,res,next)=>{
         jwt.verify(req.token,secret.secret,(err,payload)=>{
             if(err){
                 res.json(403,{
@@ -153,7 +153,7 @@ var jwt = require('jsonwebtoken'),
                 auth.getUser(payload.uid)
                 .then(function(userRecord){
                     let uid = payload.uid
-                    dueño_model.get_my_data(uid,(cb)=>{
+                    dueno_model.get_my_data(uid,(cb)=>{
                         if(cb.val!=null){
                             res.json(cb.val())
                         }else{
@@ -177,7 +177,7 @@ var jwt = require('jsonwebtoken'),
     }
     //CREATE 
     //crear/actualizar usuario
-    dueño_controller.put_new = (req,res,next) =>{
+    dueno_controller.put_new = (req,res,next) =>{
         jwt.verify(req.token,secret.secret,(err,payload)=>{
             if(err){
                 res.json(403,{
@@ -193,7 +193,7 @@ var jwt = require('jsonwebtoken'),
                         datos : req.body.data,
                         local : req.body.local 
                     }
-                    dueño_model.create_dueño(gen_cult,(cb)=>{
+                    dueno_model.create_dueno(gen_cult,(cb)=>{
                         if(cb!=null){
                             res.json(cb.code)
                         }else{
@@ -215,7 +215,7 @@ var jwt = require('jsonwebtoken'),
             }
         })
     }
-    dueño_controller.put_new_premio = (req,res,next) =>{
+    dueno_controller.put_new_premio = (req,res,next) =>{
         jwt.verify(req.token,secret.secret,(err,payload)=>{
             if(err){
                 res.json(403,{
@@ -230,7 +230,7 @@ var jwt = require('jsonwebtoken'),
                         uid : payload.uid,
                         premio : req.body.premio
                     }
-                    dueño_model.new_premio(gen_cult,(cb)=>{
+                    dueno_model.new_premio(gen_cult,(cb)=>{
                         if(cb!=null){
                             res.json(cb.code)
                         }else{
@@ -253,7 +253,7 @@ var jwt = require('jsonwebtoken'),
         })
     }
     //DELETE 
-    dueño_controller.delete_premio = (req,res,next) =>{
+    dueno_controller.delete_premio = (req,res,next) =>{
         jwt.verify(req.token,secret.secret,(err,payload)=>{
             if(err){
                 res.json(403,{
@@ -270,7 +270,7 @@ var jwt = require('jsonwebtoken'),
                         premio_id : req.body.premio_id
                     }
                     //console.log(gen_cult)
-                    dueño_model.delete_premio(gen_cult,(cb)=>{
+                    dueno_model.delete_premio(gen_cult,(cb)=>{
                         if(cb!=null){
                             res.json(cb.code)
                         }else{
@@ -292,4 +292,4 @@ var jwt = require('jsonwebtoken'),
             }
         })
     }
-    module.exports = dueño_controller
+    module.exports = dueno_controller

@@ -1,6 +1,6 @@
 'use strict'
 
-var usuario_controller = require('../Controller/usuario_controller'),
+var usuario_controller = require('../controller/usuario_controller'),
     express = require('express'),
     router = express.Router()
 

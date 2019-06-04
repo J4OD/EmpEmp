@@ -1,17 +1,17 @@
 'use strict'
 
-var dueño_controller = require('../Controller/dueño_controller'),
+var dueno_controller = require('../controller/dueno_controller'),
     express = require('express'),
     router = express.Router()
 
-    router.get('/gen_cult',verify,dueño_controller.get_all)
-    router.get('/gen_cult/loc',verify,dueño_controller.get_loc)
-    router.get('/gen_cult/my',verify,dueño_controller.get_my)
-    router.get('/gen_cult/my/premio',verify,dueño_controller.get_my_premio)
-    router.get('/gen_cult/my/datos',verify,dueño_controller.get_my_data)
-    router.post('/gen_cult',verify,dueño_controller.put_new)
-    router.put('/gen_cult/my/premio',verify,dueño_controller.put_new_premio)
-    router.delete('/gen_cult/premio',verify,dueño_controller.delete_premio)
+    router.get('/gen_cult',verify,dueno_controller.get_all)
+    router.get('/gen_cult/loc',verify,dueno_controller.get_loc)
+    router.get('/gen_cult/my',verify,dueno_controller.get_my)
+    router.get('/gen_cult/my/premio',verify,dueno_controller.get_my_premio)
+    router.get('/gen_cult/my/datos',verify,dueno_controller.get_my_data)
+    router.post('/gen_cult',verify,dueno_controller.put_new)
+    router.put('/gen_cult/my/premio',verify,dueno_controller.put_new_premio)
+    router.delete('/gen_cult/premio',verify,dueno_controller.delete_premio)
     
     //Verify TOKEN
 /* Formato de los Headers

@@ -1,6 +1,6 @@
 var firebase = require('./server');
 var db = firebase.database().ref('dueños');
-var dueño ={ //CRUD
+var dueno ={ //CRUD
     //READ
     get_all:function(callback){
         return db.once('value',callback,callback);
@@ -18,7 +18,7 @@ var dueño ={ //CRUD
         return ref.once('value',callback,callback);
     },
     //CREATE
-    create_dueño:function(gen_cult,callback){
+    create_dueno:function(gen_cult,callback){
         let ref = db.child(gen_cult.uid);
         return ref.update({datos:gen_cult.datos,local:gen_cult.local},callback);
     },
@@ -34,4 +34,4 @@ var dueño ={ //CRUD
         return ref.remove(callback);
     }
 };
-module.exports = dueño;
+module.exports = dueno;
