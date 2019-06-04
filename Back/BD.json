@@ -1,37 +1,129 @@
 {
-    "sector":{
-        "arte":{
-            "1":[{"lat": 6.336752, "lng": -75.560778},{"lat": 6.336573, "lng": -75.560698},{"lat": 6.336653, "lng": -75.560516},{"lat": 6.336871, "lng": -75.560790}],
-            "2":[{"lat":6.173095,"lng":-75.589237},{"lat":6.172814,"lng":-75.588788},{"lat":6.173694,"lng":-75.588296},{"lat":6.173934,"lng":-75.588704}]
+    "dueños":{ 
+        "JeRB4HtBOMVXZJcFhOtveOddmki2":{
+            "datos":{
+                "nombre":"Peranito",
+                "apellido":"Rodriguez",                            
+                "contacto":"perano@gmail.com"
+            },
+            "local":{
+                "nombre":"Corporacion Debluss Bar",
+                "descripcion":"Buena música, buen servicio, ambiente agradable, y la mejor cerveza Artesanal.",
+                "coords":{"lat":6.378371, "lng":-75.444312},
+                "tipo":"Tango"
+            },
+            "premios":{
+                "1":{},
+                "2":{},
+                "3":{}
+            }
         },
-        "cen_eventos":{
-            "1":[{"lat":6.322391, "lng":-75.557971},{"lat":6.322379, "lng":-75.557538},{"lat": 6.322236, "lng":-75.557521},{"lat": 6.322227, "lng":  -75.557950}]
+        "MBK30znkHNcRuj3UvPrAdjXjt7K2":{
+            "datos":{
+                "nombre":"Fulano",
+                "apellido":"Mengano",                                
+                "contacto":"fulano@mengano.com" 
+            },
+            "local":{
+                "nombre":"Licorera Bar 5B",
+                "descripcion":"musica crossover,Excelente sitio para compartir y pasar ratos muy agradables",
+                "coords":{"lat":6.376963, "lng":-75.444146},
+                "tipo":"Crossover"
+            },
+            "premios":{
+                "1":{},
+                "2":{},
+                "3":{}
+            }
         },
-        "cine":{
-            "1":[{"lat":6.339045,"lng":-75.544527},{"lat":6.338544,"lng":-75.544468},{"lat":6.338704,"lng":-75.543706},{"lat":6.339322,"lng":-75.543878}],
-            "2":[{"lat":6.176134,"lng":-75.592654},{"lat":6.175004,"lng":-75.593304},{"lat":6.174428,"lng":-75.592234},{"lat":6.175751,"lng":-75.591301}],
-            "3":[{"lat":6.164724,"lng":-75.573830},{"lat":6.163465,"lng":-75.574839},{"lat":6.162544,"lng":-75.572883},{"lat":6.163653,"lng":-75.572398}] 
+        "2RHdep7a3pcDQL5TiKPPBdft1Ds2":{
+            "datos":{
+                "nombre":"Vergardo ",
+                "apellido":"Velez",                                
+                "contacto":"Vergardo@gmail.com"
+            },
+            "local":{
+                "nombre":"icono club",
+                "descripcion":"Lugar Generador de cultura electronica,allí regularmente hacen eventos con los mejores DJ´s de la ciudad",
+                "coords":{"lat":6.191007, "lng":-75.583451},
+                "tipo":"Electrónica"
+            },
+            "premios":{
+                "1":{},
+                "2":{},
+                "3":{}
+            } 
         },
-        "cultura":{
-            "1":[{"lat": 6.336279, "lng": -75.547120},{"lat": 6.318138, "lng": -75.560382},{"lat": 6.323573, "lng": -75.560786},{"lat": 6.324522, "lng": -75.557546}],
-            "2":[{"lat": 6.172732,"lng":-75.590859},{"lat": 6.171903,"lng":-75.591363},{"lat": 6.171386,"lng":-75.591610},{"lat": 6.171855,"lng":-75.591452}],
-            "3":[{"lat":6.140544,"lng":-75.573509},{"lat": 6.137749,"lng":-75.573498},{"lat": 6.135786,"lng":-75.568294},{"lat": 6.136650,"lng":-75.567811},{"lat": 6.137557,"lng":-75.568519},{"lat": 6.139210,"lng":-75.568948}],
-            "4":[{"lat": 6.179810,"lng":-75.583367},{"lat": 6.179085,"lng":-75.583834},{"lat": 6.179628,"lng":-75.584495},{"lat": 6.179815,"lng":-75.583772}]
+        "MHmey9hfCHbOjXPb2BDElRtQHhi2":{
+            "datos":{
+                "mombre":"Diomedez",
+                "apellido":"Diaz",
+                "contacto":"diomedez@gmail.com"
+            },
+            "local":{
+                "nombre":"el cacique",
+                "descripcion":"Discoteca Para los amantes de la musica vallenata",
+                "coords":{"lat":6.249506,"lng":-75.588692},
+                "tipo":"Vallenato"
+            },
+            "premios":{
+                "1":{},
+                "2":{},
+                "3":{}
+            }
         },
-        "literatura":{
-            "1":[{"lat":6.336269,"lng":-75.559813},{"lat":6.336301,"lng":-75.559724},{"lat":6.336421,"lng":-75.559697},{"lat":6.336426,"lng":-75.559871}],
-            "2":[{"lat": 6.172732,"lng":-75.590859},{"lat": 6.171903,"lng":-75.591363},{"lat": 6.171386,"lng":-75.591610},{"lat": 6.171855,"lng":-75.591452}],   
-            "3":[{"lat":6.170152,"lng":-75.588763},{"lat":6.169992,"lng":-75.588868},{"lat":6.169987,"lng":-75.588753},{"lat":6.170110,"lng":-75.588638}]
+        "r5XJleaDOkeJUMcSuo6h6u9VaIE3":{
+            "datos":{
+                "mombre":"Farenheit",
+                "apellido":"Lopez",
+                "contacto":"fahrenheit@gmail.com"
+            },
+            "local":{
+                "nombre":"Discoteca Fahrenheit",
+                "descripcion":"Buena Musica Crossover y Musica Electronica",
+                "coords":{"lat":6.186157, "lng":-75.587816},
+                "tipo":"Crossover"
+            },
+            "premios":{
+                "1":{},
+                "2":{},
+                "3":{}
+            }
         },
-        "musica":{
-            "1":[{"lat": 25.774, "lng": -80.190},{"lat": 18.466, "lng": -66.118},{"lat": 32.321, "lng": -64.757}],
-            "2":[{"lat": 6.318111, "lng": -75.556962},{"lat": 6.334381, "lng": -75.547131},{"lat": 6.334328, "lng":  -75.548150},{"lat": 6.334936, "lng": -75.549105}],
-            "3":[{"lat": 6.340796, "lng": -75.543140},{"lat": 6.340413, "lng": -75.543033},{"lat": 6.340050, "lng":  -75.544291},{"lat": 6.340130, "lng": -75.544374}],
-            "4":[{"lat":6.174067,"lng":-75.585246},{"lat":6.171242,"lng":-75.585376},{"lat":6.172482,"lng":-75.587494},{"lat":6.173937,"lng":-75.586372}],
-            "5":[{"lat":6.171178,"lng":-75.588152},{"lat":6.169050,"lng":-75.589516},{"lat":6.166973,"lng":-75.586132},{"lat":6.168967,"lng":-75.584866}]  
+        "3TGnbjj9WLS7YioHDrWTdd3CwSD2":{
+            "datos":{
+                "mombre":"Jesus",
+                "apellido":"Lopez",
+                "contacto":"djm@gmail.com"
+            },
+            "local":{
+                "nombre":"Dulce Jesus Mio",
+                "descripcion":"Sitio Tematico para los amantes de la musica folclorica",
+                "coords":{"lat":6.223246, "lng":-75.565317},
+                "tipo":"Tropical"
+            },
+            "premios":{
+                
+            }
+        },
+        "fB4yoFv8TiRTKU0z7BF2BWoRZE52":{
+            "datos":{
+                "mombre":"Alba",
+                "apellido":"rado",
+                "contacto":"tropicalbarrioantioquia@gmail.com"
+            },
+            "local":{
+                "nombre":"Tropical cocktails Barrio Antioquia",
+                "descripcion":"Sitio reconocido por los amantes de la electronica gracias a la cultura que genera",
+                "coords":{"lat":6.226591, "lng":-75.585161},
+                "tipo":"Tropical"
+            },
+            "premios":{
+                "1":{},
+                "2":{},
+                "3":{}
+            }
         }
     },
-    "sector_descrip":{
-        
-    }
+    "Usuarios":{}
 }

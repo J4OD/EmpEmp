@@ -1,0 +1,667 @@
+{
+    "dueños":{ 
+        "JeRB4HtBOMVXZJcFhOtveOddmki2":{
+            "datos":{
+                "nombre":"Peranito",
+                "apellido":"Rodriguez",                            
+                "contacto":"perano@gmail.com"
+            },
+            "local":{
+                "nombre":"Corporacion Debluss Bar",
+                "descripcion":"Buena música, buen servicio, ambiente agradable, y la mejor cerveza Artesanal.",
+                "coords":{"lat":6.378371, "lng":-75.444312},
+                "tipo":"Tango"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"granizado",
+                    "puntos":1200
+                },
+                "2":{
+                    "descripcion":"Cerveza gratis",
+                    "puntos":3000
+                },
+                "3":{
+                    "descripcion":"Litro de Aguardiente",
+                    "puntos":10000
+                }
+            }
+        },
+        "MBK30znkHNcRuj3UvPrAdjXjt7K2":{
+            "datos":{
+                "nombre":"Fulano",
+                "apellido":"Mengano",                                
+                "contacto":"fulano@mengano.com" 
+            },
+            "local":{
+                "nombre":"Licorera Bar 5B",
+                "descripcion":"musica crossover,Excelente sitio para compartir y pasar ratos muy agradables",
+                "coords":{"lat":6.376963, "lng":-75.444146},
+                "tipo":"Crossover"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"Recordatorio",
+                    "puntos":1200
+                },
+                "2":{
+                    "descripcion":"3 Cervezas al 50% de descuento",
+                    "puntos":3000
+                },
+                "3":{
+                    "descripcion":"Plato de Comida",
+                    "puntos":10000
+                }
+            }
+        },
+        "2RHdep7a3pcDQL5TiKPPBdft1Ds2":{
+            "datos":{
+                "nombre":"Bernardo",
+                "apellido":"Velez",                                
+                "contacto":"Vernardo@gmail.com"
+            },
+            "local":{
+                "nombre":"icono club",
+                "descripcion":"Lugar Generador de cultura electronica,allí regularmente hacen eventos con los mejores DJ´s de la ciudad",
+                "coords":{"lat":6.191007, "lng":-75.583451},
+                "tipo":"Electrónica"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"Cocktail",
+                    "puntos":1200
+                },
+                "2":{
+                    "descripcion":"Cerveza gratis",
+                    "puntos":3000
+                },
+                "3":{
+                    "descripcion":"Litro de Ron",
+                    "puntos":10000
+                }
+            } 
+        },
+        "MHmey9hfCHbOjXPb2BDElRtQHhi2":{
+            "datos":{
+                "nombre":"Diomedez",
+                "apellido":"Diaz",
+                "contacto":"diomedez@gmail.com"
+            },
+            "local":{
+                "nombre":"el cacique",
+                "descripcion":"Discoteca Para los amantes de la musica vallenata",
+                "coords":{"lat":6.249506,"lng":-75.588692},
+                "tipo":"Vallenato"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"granizado",
+                    "puntos":1200
+                },
+                "2":{
+                    "descripcion":"Cerveza gratis",
+                    "puntos":3000
+                },
+                "3":{
+                    "descripcion":"Litro de Aguardiente",
+                    "puntos":10000
+                }
+            }
+        },
+        "r5XJleaDOkeJUMcSuo6h6u9VaIE3":{
+            "datos":{
+                "nombre":"Farenheit",
+                "apellido":"Lopez",
+                "contacto":"fahrenheit@gmail.com"
+            },
+            "local":{
+                "nombre":"Discoteca Fahrenheit",
+                "descripcion":"Buena Musica Crossover y Musica Electronica",
+                "coords":{"lat":6.186157, "lng":-75.587816},
+                "tipo":"Crossover"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"Trago de Vodka",
+                    "puntos":1200
+                },
+                "2":{
+                    "descripcion":"Cerveza gratis",
+                    "puntos":3000
+                },
+                "3":{
+                    "descripcion":"Six Pack Cerveza",
+                    "puntos":10000
+                }
+            }
+        },
+        "3TGnbjj9WLS7YioHDrWTdd3CwSD2":{
+            "datos":{
+                "nombre":"Jesus",
+                "apellido":"Lopez",
+                "contacto":"djm@gmail.com"
+            },
+            "local":{
+                "nombre":"Dulce Jesus Mio",
+                "descripcion":"Sitio Tematico para los amantes de la musica folclorica",
+                "coords":{"lat":6.223246, "lng":-75.565317},
+                "tipo":"Tropical"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"granizado",
+                    "puntos":1200
+                },
+                "2":{
+                    "descripcion":"Cerveza gratis",
+                    "puntos":3000
+                },
+                "3":{
+                    "descripcion":"Litro de Aguardiente",
+                    "puntos":10000
+                }
+            }
+        },
+        "fB4yoFv8TiRTKU0z7BF2BWoRZE52":{
+            "datos":{
+                "nombre":"Alba",
+                "apellido":"rado",
+                "contacto":"tropicalbarrioantioquia@gmail.com"
+            },
+            "local":{
+                "nombre":"Tropical cocktails Barrio Antioquia",
+                "descripcion":"Sitio reconocido por los amantes de la electronica gracias a la cultura que genera",
+                "coords":{"lat":6.226591, "lng":-75.585161},
+                "tipo":"Tropical"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"granizado pequeño",
+                    "puntos":1200
+                },
+                "2":{
+                    "descripcion":"Cocktail",
+                    "puntos":3000
+                },
+                "3":{
+                    "descripcion":"Pilsen 1 Litro",
+                    "puntos":10000
+                }
+            }
+          
+        },
+        "AI5yrIoTLscSPvFYXyYczcVuMV02":{
+            "datos":{
+                "nombre":"Luxury",
+                "apellido":"club",
+                "contacto":"luxuryclub@gmail.com"
+            },
+            "local":{
+                "nombre":"Luxury Club Medellin",    
+                "descripcion":"Sitio de Regueton y toques de DJ's",
+                "coords":{"lat":6.208420, "lng":-75.568304},
+                "tipo":"Regueton"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"granizado",
+                    "puntos":1200
+                },
+                "2":{
+                    "descripcion":"Cerveza gratis",
+                    "puntos":3500
+                },
+                "3":{
+                    "descripcion":"Baileys",
+                    "puntos":15000
+                }
+            }
+        },
+        "CvDBDF1V1VfYDC2P03vqIANRIq03":{
+            "datos":{
+                "nombre":"Disco",
+                "apellido":"Ibiza",
+                "contacto":"ibiza@gmail.com"
+            },
+            "local":{
+                "nombre":"Discoteca Ibiza",
+                "descripcion":"Buen ambiente y Buen ambiente para compartir",
+                "coords":{"lat":6.239574, "lng":-75.585035},
+                "tipo":"Crossover"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"granizado",
+                    "puntos":1200
+                },
+                "2":{
+                    "descripcion":"Cerveza gratis",
+                    "puntos":3000
+                },
+                "3":{
+                    "descripcion":"OldParr",
+                    "puntos":10000
+                }
+            }
+        },
+        "u3s0EqaA3LXouyuzafQ9iXk9eNs1":{
+            "datos":{
+                "nombre":"Fase",
+                "apellido":"Dos",
+                "contacto":"faseii@gmail.com"
+            },
+            "local":{
+                "nombre":"Discoteca Fase II",
+                "descripcion":"Buen lugar para pasar el rato con buena musica y buena atencion",
+                "coords":{"lat":6.230346, "lng":-75.570848},
+                "tipo":"Crossover"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"Shot",
+                    "puntos":1200
+                },
+                "2":{
+                    "descripcion":"Cerveza gratis",
+                    "puntos":3000
+                },
+                "3":{
+                    "descripcion":"Jose Cuervo",
+                    "puntos":10000
+                }
+            }
+        },
+        "YvgrKqMsIlXCB1blboTyUh2ICfE3":{
+            "datos":{
+                "nombre":"Kukaramakara",
+                "apellido":"Velez",
+                "contacto":"kukaramakara@gmail.com"
+            },
+            "local":{
+                "nombre":"Kukaramakara",
+                "descripcion":"Sitio para musica en vivo y musica variada",
+                "coords":{"lat":6.199009, "lng":-75.573632},
+                "tipo":"Crossover"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"granizado",
+                    "puntos":1200
+                },
+                "2":{
+                    "descripcion":"Cerveza gratis",
+                    "puntos":3000
+                },
+                "3":{
+                    "descripcion":"Jagermeister",
+                    "puntos":10000
+                }
+            }
+        },
+        "d2i1gxiSkbOPeWYXfvLmZNsgz9W2":{
+            "datos":{
+                "nombre":"Tienda",
+                "apellido":"De la 70",
+                "contacto":"tiendadela70@gmail.com"
+            },
+            "local":{
+                "nombre":"La Tienda De La 70",
+                "descripcion":"Un espacio acogedor para disfrutar de la mejor música y comida agradable",
+                "coords":{"lat":6.246273, "lng":-75.589079},
+                "tipo":"Crossover"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"Malteada de Chocolate",
+                    "puntos":1200
+                },
+                "2":{
+                    "descripcion":"Cerveza gratis",
+                    "puntos":3000
+                },
+                "3":{
+                    "descripcion":"Brandy",
+                    "puntos":10000
+                }
+            }
+        },
+        "guZhhHA4bDdOxWlsZWQ99zJbTbj2":{
+            "datos":{
+                "nombre":"Bendito",
+                "apellido":"Seas",
+                "contacto":"bs@gmail.com"
+            },
+            "local":{
+                "nombre":"Bendito Seas",
+                "descripcion":"un excelente lugar para salir de rumba. Ir es garantizar querer volver",
+                "coords":{"lat":6.210262, "lng":-75.567291},
+                "tipo":"Regueton"
+        },
+        "premios":{
+            "1":{
+                "descripcion":"Granizado",
+                "puntos":1200
+            },
+            "2":{
+                "descripcion":"Cerveza gratis",
+                "puntos":3000
+            },
+            "3":{
+                "descripcion":"Ron Medellin",
+                "puntos":10000
+            }
+            }
+        },
+        "3s8vfuvN0KfYAwHOGyaQqYARiW02":{
+            "datos":{
+                "nombre":"Oye",
+                "apellido":"Bonita",
+                "contacto":"oyebonita@gmail.com"
+            },
+            "local":{
+                "nombre":"Oye Bonita",
+                "descripcion":"Buena Discoteca y muy buena musica variada con videos",
+                "coords":{"lat":6.246742, "lng":-75.589281},
+                "tipo":"Crossover"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"Granizado",
+                    "puntos":1200
+                },
+                "2":{
+                    "descripcion":"Cerveza gratis",
+                    "puntos":3000
+                },
+                "3":{
+                    "descripcion":"Litro de Ron o Aguardiente",
+                    "puntos":10000
+                }
+            }
+        },
+        "sI7TpyQbXyfqyfqkCv5NOeSxUTp2":{
+            "datos":{
+                "nombre":"Viva",
+                "apellido":"Discoteca",
+                "contacto":"vivadiscoteca@gmail.com"
+            },
+            "local":{
+                "nombre":"Viva Discoteca",
+                "descripcion":"Muy buena discoteca para divertirse y pasarla bien",
+                "coords":{"lat":6.260755, "lng":-75.589631},
+                "tipo":"Electrónica"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"Granizado",
+                    "puntos":2000
+                },
+                "2":{
+                    "descripcion":"Granizado Deluxe",
+                    "puntos":4000
+                },
+                "3":{
+                    "descripcion":"Cover Evento Gratis",
+                    "puntos":10000
+                }
+            }
+        },
+        "rECczTZLgQc5b5Rw3cIYet2Vw8w1":{
+            "datos":{
+                "nombre":"Pico",
+                "apellido":"Botella",
+                "contacto":"apicodebotellabar@gmail.com"
+            },
+            "local":{
+                "nombre":"A Pico de Botella",
+                "descripcion":"Lugar con musica variada, un ambiente muy agradable.",
+                "coords":{"lat":6.251621, "lng":-75.588312},
+                "tipo":"Crossover"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"3 Cervezas",
+                    "puntos":4000
+                },
+                "2":{
+                    "descripcion":"Media de Ron o Aguardiente",
+                    "puntos":12000
+                },
+                "3":{
+                    "descripcion":"Garrafa Ron o Aguardiente.",
+                    "puntos":30000
+                }
+            }
+        },
+        "G4nbe9jbusZY3hktAX7jjxV75in1":{
+            "datos":{
+                "nombre":"zenith",
+                "apellido":"fest",
+                "contacto":"z@z.com"
+            },
+            "local":{
+                "nombre":"Zenith Room Fest",
+                "descripcion":"Lugar Muy Agradable Reconocido por Generar cultura electronica y por las tematicas de sus eventos",
+                "coords":{"lat":6.264591, "lng":-75.555343},
+                "tipo":"Electronica"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"Cover Gratis",
+                    "puntos":4000
+                },
+                "2":{
+                    "descripcion":"Cover Gratis y Granizado Deluxe de Bienvenida",
+                    "puntos":9000
+                },
+                "3":{
+                    "descripcion":"Granizado 2x1",
+                    "puntos":5000
+                }
+            }
+        },
+        "qxFISQlWCQNrz9oMSeT86and2Zs1":{
+            "datos":{
+                "nombre":"Ritmos y Tangos",
+                "apellido":"Ritmos",
+                "contacto":"RYT@RYT.com"
+            },
+            "local":{
+                "nombre":"Ritmos y Tangos",
+                "descripcion":"Lugar Para los amantes del tango, un Lugar Muy agradable Para disfrutar de sus presentaciones y buena musica",
+                "coords":{"lat":6.250070, "lng":-75.600226},
+                "tipo":"Tango"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"Cerveza",
+                    "puntos":1000
+                },
+                "2":{
+                    "descripcion":"Media de Ron o Aguardiente",
+                    "puntos":10000
+                },
+                "3":{
+                    "descripcion":"Brandy",
+                    "puntos":12000
+                }
+            }
+        },
+        "AA0TRpN1ZpaSEMrJ9QxRc1xn3tU2":{
+            "datos":{
+                "nombre":"La clinica",
+                "apellido":"Night club",
+                "contacto":"LC@LC.com"
+            },
+            "local":{
+                "nombre":"La Clínica Night Club",
+                "descripcion":"Lugar Para disfrutar de Buenos eventos de musica electronica con Los mejores DJ´s en vivo.",
+                "coords":{"lat":6.207479, "lng":-75.568032},
+                "tipo":"Electronica"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"Granizado",
+                    "puntos":4000
+                },
+                "2":{
+                    "descripcion":"Cover Gratis Hasta por 4 personas y Granizado Para C/U",
+                    "puntos":8000
+                },
+                "3":{
+                    "descripcion":"Media de Ron o Aguardiente",
+                    "puntos":15000
+                }
+            }
+        },
+        "WewxMhJzAcO1Q5vR2OQLsNA0wCM2":{
+            "datos":{
+                "nombre":"Lico",
+                "apellido":"Deluxe",
+                "contacto":"LD@LD.com"
+            },
+            "local":{
+                "nombre":"Lico Deluxe",
+                "descripcion":"Discoteca Muy Agradable para disfrutar de buena musica crossover y eventos.",
+                "coords":{"lat":6.208990, "lng":-75.568485},
+                "tipo":"Crossover"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"Cerveza",
+                    "puntos":3000
+                },
+                "2":{
+                    "descripcion":"3 Cervezas",
+                    "puntos":10000
+                },
+                "3":{
+                    "descripcion":"Media de Ron o Aguardiente",
+                    "puntos":20000
+                }
+            }
+        },
+        "Gjhz9pBQPueAD70usciAZ4MRSUp2":{
+            "datos":{
+                "nombre":"Tropical Cocktails Lleras",
+                "apellido":"cocktails",
+                "contacto":"TCL@TCL.com"
+            },
+            "local":{
+                "nombre":"Tropical Cocktails Lleras",
+                "descripcion":"Lugar Para los Amantes de la Buena musica electronica.",
+                "coords":{"lat":6.209083, "lng":-75.568724},
+                "tipo":"Electronica"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"Granizado",
+                    "puntos":6000
+                },
+                "2":{
+                    "descripcion":"2 Granizados",
+                    "puntos":10000
+                },
+                "3":{
+                    "descripcion":"Cover Evento",
+                    "puntos":10000
+                }
+            }
+        },
+        "4FQE28o47uZwJu3oQTYFJDMvY4b2s":{
+            "datos":{
+                "nombre":"Tsunami",
+                "apellido":"Discoteca",
+                "contacto":"TD@tsunami.com"
+            },
+            "local":{
+                "nombre":"TSUNAMI",
+                "descripcion":"Discoteca con muy buen ambiente juvenil y buena musica crossover",
+                "coords":{"lat":6.266101, "lng":-75.555179},
+                "tipo":"Crossover"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"Cerveza",
+                    "puntos":2000
+                },
+                "2":{
+                    "descripcion":"Media de Ron o Aguardiente",
+                    "puntos":15000
+                },
+                "3":{
+                    "descripcion":"Garrafa de Ron o Aguardiente",
+                    "puntos":25000
+                }
+            }
+        },
+        "HvxwIDCMTtdkeYG0ZsAEMgQQ4Ro1":{
+            "datos":{
+                "nombre":"VIP",
+                "apellido":"Discoteca",
+                "contacto":"VIP@V.com"
+            },
+            "local":{
+                "nombre":"VIP",
+                "descripcion":"Discoteca a las afueras de la ciudad con un ambiente muy agradable.",
+                "coords":{"lat":6.153602, "lng":-75.630482},
+                "tipo":"Crossover"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"Cover",
+                    "puntos":10000
+                },
+                "2":{
+                    "descripcion":"Media de Ron o Aguardiente",
+                    "puntos":20000
+                },
+                "3":{
+                    "descripcion":"Cerveza",
+                    "puntos":5000
+                }
+            }
+        },
+        "39DUhMaUT5ZDQ75tgbNsp3IOhi93":{
+            "datos":{
+                "nombre":"Ottawa",
+                "apellido":"Discoteca",
+                "contacto":"Ott@wa.com"
+            },
+            "local":{
+                "nombre":"Ottawa Discoteca",
+                "descripcion":"Muy buena discoteca con excelente musica para pasar una excelente noche.",
+                "coords":{"lat":6.321150, "lng":-75.558795},
+                "tipo":"Crossover"
+            },
+            "premios":{
+                "1":{
+                    "descripcion":"Granizado",
+                    "puntos":4000
+                },
+                "2":{
+                    "descripcion":"Media de Ron o Aguardiente",
+                    "puntos":15000
+                },
+                "3":{
+                    "descripcion":"Garrafa de Ron o Aguardiente",
+                    "puntos":25000
+                }
+            }
+        }
+    },
+    "usuarios":{
+        "UXKK6aGfKaPAYGWn0dwaGTkAwQs2":{
+            "datos":{
+                "nombre":"Juanes",
+                "correo":"juanes123@gmail.com",
+                "puntos":1200
+            }
+        }
+    },
+    "puntos":{
+        "visita": 100,
+        "consumo": 500,
+        "evento":1000   
+    }
+}
