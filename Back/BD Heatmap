@@ -1,0 +1,284 @@
+{
+    "sector":{
+        "barbosa":{
+            "musica":[
+                {
+                    "desc" : "Es un lugar muy tradicional, musica para gente mayor",
+                    "coords" : {"lat":6.438589, "lng":-75.331355}
+                },
+                {
+                    "desc" : "Club de baile y bar",
+                    "coords" : {"lat":6.436890, "lng":-75.331591}
+                },
+                {
+                    "desc" : "Es un lugar de musica Crossover",
+                    "coords" : {"lat":6.435869, "lng":-75.329635}
+                },
+                {
+                    "desc" : "Un espacio ideal para compartir en familia",
+                    "coords" : {"lat":6.442303, "lng":-75.329830}
+                }
+            ]
+        },
+        "girardota":{
+            "musica":[
+                {
+                    "desc":"Es un lugar muy tradicional, de musica agradable y de todo tipo",
+                    "coords":{"lat":6.363636, "lng":-75.456272}
+                },
+                {
+                    "desc":"Un espacio ideal para compartir en familia y pasarla bien",
+                    "coords":{"lat":6.365715, "lng":-75.453705}
+                },
+                {
+                    "desc":"Un sitio agradable y con musica de todo tipo",
+                    "coords":{"lat":6.343429, "lng":-75.508363}
+                },
+                {
+                    "desc":"Muy buena atencion y buena musica popular",
+                    "coords":{"lat":6.348179, "lng":-75.504489}
+                },
+                {
+                    "desc":"Buen ambiente, gran variedad de licor, musica de todo tipo",
+                    "coords":{"lat":6.347646, "lng":-75.505730}
+                },
+                {
+                    "desc":"Agradable para compartir en familia y amigos",
+                    "coords":{"lat":6.378836, "lng":-75.447607}
+                },
+                {
+                    "desc":"Agradable musica tradicional",
+                    "coords":{"lat":6.347314, "lng":-75.506108}
+                },
+                {
+                    "desc":"Musica Reggae",
+                    "coords":{"lat":6.377124, "lng":-75.444798}
+                },
+                {
+                    "desc":"Ambiente tranquilo, Ideal para conversar",
+                    "coords":{"lat":6.377720, "lng":-75.446291}
+                },
+                {
+                    "desc":"Buena musica de todo tipo y licor altesanal",
+                    "coords":{"lat":6.378371, "lng":-75.444312}
+                },
+                {
+                    "desc":"Lugar tranquilo y organizado, Ideal para los amantes de dos ruedas",
+                    "coords":{"lat":6.375124, "lng":-75.447504}
+                },
+                {
+                    "desc":"un lugar acogedor y con musica popular",
+                    "coords":{"lat":6.356837, "lng":-75.453298}
+                },
+                {
+                    "desc":"Un ambiente con musica para jovenes",
+                    "coords":{"lat":6.360143, "lng":-75.458802}
+                }
+            ]
+        },
+        "copacabana":{
+            "musica":[
+                {
+                    "desc":"Buenos shows musicales",
+                    "coords":{"lat":6.373108, "lng":-75.495416}
+                },
+                {
+                    "desc":"Buena musica para bailar",
+                    "coords":{"lat":6.384807, "lng":-75.493591}
+                },
+                {
+                    "desc":"Buena musica agradable para bailar y pasar un buen rato",
+                    "coords":{"lat":6.343429, "lng":-75.508363}
+                },
+                {
+                    "desc":"Ambiente de musica Crossover",
+                    "coords":{"lat":6.348179, "lng":-75.504489}
+                },
+                {
+                    "desc":"Buena y variada musica",
+                    "coords":{"lat":6.347646, "lng":-75.505730}
+                },
+                {
+                    "desc":"Un bar tranquilo, buena musica popular",
+                    "coords":{"lat":6.347536, "lng":-75.505570}
+                },
+                {
+                    "desc":"Buena musica alternativa y un lugar acogedor",
+                    "coords":{"lat":6.347314, "lng":-75.506108}
+                },
+                {
+                    "desc":"Musica alternativa",
+                    "coords":{"lat":6.345404, "lng":-75.507383}
+                },
+                {
+                    "desc":"Ambiente agradable y musica para jovenes",
+                    "coords":{"lat":6.345573, "lng":-75.511540}
+                },
+                {
+                    "desc":"Gran variedad de musica y una buena atencion",
+                    "coords":{"lat":6.343482, "lng":-75.517158}
+                },
+                {
+                    "desc":"Musica Popular, un lugar para ver futbol",
+                    "coords":{"lat":6.345994, "lng":-75.512409}
+                },
+                {
+                    "desc":"Ideal para la gente que le gusta la musica de los años 70",
+                    "coords":{"lat":6.346847, "lng":-75.511867}
+                },
+                {
+                    "desc":"Un lugar de musica Popular",
+                    "coords":{"lat":6.342016, "lng":-75.516613}
+                }
+            ]
+        },
+        "tejelo":{
+            "musica":[
+                {
+                    "desc":"Musica Crossover",
+                    "coords":{"lat":6.309051, "lng":-75.571556}
+                },
+                {
+                    "desc":"En este lugar hay buena musica popular y muy buen servicio",
+                    "coords":{"lat":6.303682, "lng":-75.570591}
+                },
+                {
+                    "desc":"Un lugar agradable para compartir con un ambiente agradable y muy buen servicio",
+                    "coords":{"lat":6.304803, "lng":-75.573684}
+                }
+            ]
+        },
+        "doce de octubre":{
+            "musica":[
+                {
+                    "desc":"musica romantica y clasicos de rock",
+                    "coords":{"lat":6.303121, "lng":-75.579119}
+                },
+                {
+                    "desc":"musica popular",
+                    "coords":{"lat":6.298956, "lng":-75.580631}
+                }
+            ]
+        },
+        "bello":{
+            "musica":[
+                {
+                    "desc":"otawa discoteca" ,
+                    "coords":{"lat":6.321156, "lng":-75.558760}
+                },
+                {
+                    "desc":"oye bonita",
+                    "coords":{"lat":6.321230, "lng":-75.558797}
+                },
+                {
+                    "desc":"la parranda vallenata",
+                    "coords":{"lat":6.320875, "lng":-75.558801}
+                },
+                {
+                    "desc":"berlin shots",
+                    "coords":{"lat":6.321172, "lng":-75.558950}
+                },
+                {
+                    "desc":"san martin",
+                    "coords":{"lat":6.321132, "lng":-75.558937}
+                },
+                {
+                    "desc":"discoteca avatar",
+                    "coords":{"lat":6.321358, "lng":-75.558887}
+                },
+                {
+                    "desc":"babaluu",
+                    "coords":{"lat":6.321341, "lng":-75.558953}
+                },
+                {
+                    "desc":"milhouse",
+                    "coords":{"lat":6.321531, "lng":-75.558879} 
+                },
+                {
+                    "desc":"Fragma",
+                    "coords":{"lat":6.321676, "lng":-75.558892}
+                },
+                {
+                    "desc":"deluxe people",
+                    "coords":{"lat":6.321797, "lng":-75.558911}
+                },
+                {
+                    "desc":"queen vip",
+                    "coords":{"lat":6.321976, "lng":-75.558931}
+                },
+                {
+                    "desc":"donde wicho!",
+                    "coords":{"lat":6.322156, "lng":-75.558969}
+                },
+                {
+                    "desc":"soho",
+                    "coords":{"lat":6.322423, "lng":-75.559086}
+                },
+                {
+                    "desc":"happy shots",
+                    "coords":{"lat":6.322476, "lng":-75.559001}
+                },
+                {
+                    "desc":"¡ay! dios mio" ,
+                    "coords":{"lat":6.322656, "lng":-75.559018}
+                },
+                {
+                    "desc":"guateke",
+                    "coords":{"lat":6.322964, "lng":-75.559131}
+                },
+                {
+                    "desc":"bendito parrandon",
+                    "coords":{"lat":6.322480, "lng":-75.559385}
+                },
+                {
+                    "desc":"La clave" ,
+                    "coords":{"lat":6.322444, "lng":-75.559153}
+                },
+                {
+                    "desc":"pila club",
+                    "coords":{"lat":6.319865, "lng":-75.557407}
+                },
+                {
+                    "desc":"la palanka",
+                    "coords":{"lat":6.319709, "lng":-75.557564} 
+                },
+                {
+                    "desc":"euphoria",
+                    "coords":{"lat":6.314563, "lng":-75.560798}
+                },
+                {
+                    "desc":"bar las torres",
+                    "coords":{"lat":6.314773, "lng":-75.561088} 
+                },
+                {
+                    "desc":"pila shots",
+                    "coords":{"lat":6.314661, "lng":-75.560833}
+                },
+                {
+                    "desc":"happy shots cabañas" ,
+                    "coords":{"lat":6.314741, "lng":-75.560918}
+                },
+                {
+                    "desc":"liquour box",
+                    "coords":{"lat":6.314458, "lng":-75.560854}
+                },
+                {
+                    "desc":"ksa bar",
+                    "coords":{"lat":6.323771, "lng":-75.557411}
+                },
+                {
+                    "desc":"azoka",
+                    "coords":{"lat":6.340330, "lng":-75.543338} 
+                },
+                {
+                    "desc":"que años 60´s y 70´s",
+                    "coords":{"lat":6.341853, "lng":-75.541297}
+                },
+                {
+                    "desc":"soho cocktail",
+                    "coords":{"lat":6.342295, "lng":-75.541388}
+                }
+            ]
+        }
+    }
+}
